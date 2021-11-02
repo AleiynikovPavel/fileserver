@@ -1,4 +1,4 @@
-package com.sabd.fileserver.dto;
+package com.sabd.fileserver.model;
 
 import java.time.LocalDateTime;
 import java.util.UUID;

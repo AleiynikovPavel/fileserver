@@ -19,7 +19,7 @@ import org.springframework.stereotype.Service;
 
 import com.sabd.fileserver.chunkstore.ChunkProducer;
 import com.sabd.fileserver.dto.ChunkStatisitic;
-import com.sabd.fileserver.dto.FileEntity;
+import com.sabd.fileserver.model.FileEntity;
 import com.sabd.fileserver.dto.NewFile;
 import com.sabd.fileserver.filestore.FileWriter;
 import com.sabd.fileserver.repository.FileRepository;

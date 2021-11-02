@@ -4,6 +4,8 @@ import java.time.LocalDateTime;
 
 import org.springframework.data.annotation.Id;
 
+import com.sabd.fileserver.model.FileEntity;
+
 public class NewFile {
 
     @Id

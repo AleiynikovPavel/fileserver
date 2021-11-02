@@ -7,7 +7,7 @@ import org.springframework.http.ResponseEntity;
 import org.springframework.http.codec.multipart.FilePart;
 import org.springframework.web.bind.annotation.*;
 
-import com.sabd.fileserver.dto.FileEntity;
+import com.sabd.fileserver.model.FileEntity;
 import com.sabd.fileserver.dto.NewFile;
 import com.sabd.fileserver.service.FileStoreService;
 
